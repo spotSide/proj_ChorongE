@@ -7,6 +7,7 @@
 
 * (프로젝트 아키텍쳐 기술, 전반적인 diagram 으로 설명을 권장)
 * opencv openvino otx, MediaPipe
+* AI models: hand detection (media-pipe), classification (otx), mono-depth (openvino) 
 
 ## Clone code
 
