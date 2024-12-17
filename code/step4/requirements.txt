@@ -1,0 +1,6 @@
+matplotlib
+mediapipe
+notebook_utils
+numpy
+opencv-python
+openvino-dev
