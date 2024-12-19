@@ -1,0 +1,8 @@
+asyncio
+opencv-contrib-python
+mediapipe
+numpy
+pyttsx3
+ultralytics
+openvino
+matplotlib
