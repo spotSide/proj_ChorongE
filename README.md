@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/23db5374-eac4-4dbc-9d74-d7aaf0f48af5)# Project chorongE
-
 저 시력자용 보조 비전
 최종 목표는 잿슨나노 등을 이용하여 단독제품으로 구현
 
@@ -53,7 +51,7 @@ python3 test_main.py
 
 * (프로젝트 실행 화면 캡쳐)
 
-![./result.jpg](./result.jpg)
+![image](https://github.com/user-attachments/assets/23db5374-eac4-4dbc-9d74-d7aaf0f48af5)# Project chorongE
 
 ## Appendix
 
