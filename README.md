@@ -1,11 +1,9 @@
-저 시력자용 보조 비전
+시각장애인 타겟의 보조 비전
 최종 목표는 잿슨나노 등을 이용하여 단독제품으로 구현
 
 ## High Level Design
 
-* (프로젝트 아키텍쳐 기술, 전반적인 diagram 으로 설명을 권장)
-* opencv yolo11, MediaPipe , tts
-* AI models: hand detection (media-pipe), detection-train (yolo11), mono-depth (openvino) , tts (pyttsx3)
+![image](https://github.com/spotSide/proj_ChorongE/blob/main/pic/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-12-19%2015-47-06.png)
 
 ## Clone code
 
@@ -17,7 +15,6 @@ git clone https://github.com/spotSide/projJewel.git
 
 ## Prerequite
 
-* (프로잭트를 실행하기 위해 필요한 dependencies 및 configuration들이 있다면, 설치 및 설정 방법에 대해 기술)
 
 ```shell
 python -m venv .openvino_env
@@ -37,7 +34,6 @@ source .openvino_env/bin/activate
 
 ## Steps to run
 
-* (프로젝트 실행방법에 대해서 기술, 특별한 사용방법이 있다면 같이 기술)
 
 ```shell
 cd ~/home/intel/openvino_env
